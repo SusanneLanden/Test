@@ -24,8 +24,6 @@
             <biblStruct>
             
                <monogr>
-                  <title>Fosterländsk sång vid Götha Canals Öpnande i hans Maj:t Konungens och den Kongl. Famillens Närvaro, den 26 september 1832.</title>
-               <author>Pontin, af Magnus Martin</author>
                   <imprint>
                      <publisher>P. A. Norstedt &amp; söner</publisher>
                      <pubPlace>Stockholm</pubPlace>
@@ -39,77 +37,36 @@
  
    
    <text>
-      <body>
-         <div type="page">
-            <figure> <graphic url="file:///C:/Users/Susanne%20Land%C3%A9n/Documents/GitHub/Test/collection/Test/Fosterlandsksang_01.pdf"></graphic></figure>
-         </div>
-         <pb/>
-         <pb/>
-         <div type="titlepage">
-            <p rend="center">
-               <title>
-                  <emph rend="italic">
-                     Fosterländsk Sång
-                     <lb/>Vid<lb/>
-                     <lb/>Götha Canals Fullbordan.<lb/>
-                     <lb/>År 1832<lb/>
-                  </emph>
-               </title> <lb/>
-         </p>
-         </div>
-         
-         <pb/>
-
-         <pb n="nn"/>
-         <div type="page">
-            <figure> <graphic url="file:///C:/Users/Susanne%20Land%C3%A9n/Documents/GitHub/Test/collection/Test/Fosterlandsksang_02.pdf"></graphic></figure>
-            <p rend="center">       
-               <title>
-                  <emph>Chor.
-                  </emph>
-               </title> 
-            </p>      
+      <body>     
             <p>
-               Du bröt dina bojor, du fria Nord! <lb/>
-               De sista, de enda dig tryckte:<lb/>
-               De klippor, som stängde din bördiga jord,<lb/>
-               De fjäll, som begränsat ditt rykte.<lb/>
-               Nu leder du, fridsam, den vestliga fjord <lb/>
-               Till fjärdarna inanför Bälten,<lb/>
-               Att helsas af Konunga-Hjelten.<lb/>
-               Då skyndar den högländta källans språng<lb/> 
-               Ur hjertat af Skandiens dalar,<lb/>
-               Och, mötande salta vågens gång,<lb/>
-               Om inlandets trefnad hon talar;<lb/>
-               Der Odlarn och Bergsmannen höja sin sång<lb/>
-               Och Krigarne sjunga i tälten,<lb/>
-               Till ära för segrande Hjelten.<lb/>
+               Chor.
+               <lb/>
+               <lb/>Du bröt dina bojor, du fria Nord!
+               <lb/>De sista, de enda dig tryckte:
+               <lb/>De klippor, som stängde din bördiga jord,
+               <lb/>De fjäll, som begränsat ditt rykte.
+               <lb/>Nu leder du, fridsam, den vestliga fjord 
+               <lb/>Till fjärdarna inanför Bälten,
+               <lb/>Att helsas af Konunga-Hjelten.
+               <lb/>Då skyndar den högländta källans språng 
+               <lb/>Ur hjertat af Skandiens dalar,
+               <lb/>Och, mötande salta vågens gång,
+               <lb/>Om inlandets trefnad hon talar;
+               <lb/>Der Odlarn och Bergsmannen höja sin sång
+               <lb/>Och Krigarne sjunga i tälten,
+               <lb/>Till ära för segrande Hjelten.
             </p> 
-         </div>
-         
-         <pb n="2-3"/>
-         <div type="page">
-            <figure> <graphic url="file:///C:/Users/Susanne%20Land%C3%A9n/Documents/GitHub/Test/collection/Test/Fosterlandsksang_03.pdf"></graphic></figure>
-            <p rend="center">       
-               <title>
-                  <emph>Recitativ.
-                  </emph>
-               </title> 
-            </p>      
+   
             <p>
-               Ja, en Segerfest är din fullbordan,<lb/>
-               Jätte-verk af Sveas starka arm!<lb/>
-               Blåse Vestan eller storme Nordan, <lb/>
-               Trygg hon möter dem med härdad barm.<lb/>
-               Lik en flod-gud uppå egna vågor<lb/>
-               Går hon, och på strand dess Lejon-par;<lb/>
-               Bjuder tiden svara på de frågor,<lb/>
-               Der blott vinning fordrar svar.<lb/> 
+               Ja, en Segerfest är din fullbordan,
+               <lb/>Jätte-verk af Sveas starka arm!
+               <lb/>Blåse Vestan eller storme Nordan, 
+               <lb/> Trygg hon möter dem med härdad barm.
+               <lb/>Lik en flod-gud uppå egna vågor
+               <lb/>Går hon, och på strand dess Lejon-par;
+               <lb/>Bjuder tiden svara på de frågor,
+               <lb/>Der blott vinning fordrar svar. 
             </p> 
-         </div>
-         <div type="page">
-            <figure> <graphic url="file:///C:/Users/Susanne%20Land%C3%A9n/Documents/GitHub/Test/collection/Test/Fosterlandsksang_07.pdf"></graphic></figure>
-         </div>
       </body>
   </text>
 </TEI>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!DOCTYPE HTML>
+
 <html lang="en" xml:lang="en">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -39,10 +39,6 @@
          <div class="container">
             <div class="row">
                <div class="col-">
-                  <article id="thumbnail"><img src="" title="" alt=""></article>
-               </div>
-               <div class="col-md">
-                  <article id="transcript">
                      
                      
                       
@@ -120,7 +116,7 @@
                       
                      
                      
-                     </article>
+                     
                </div>
                <div class="col-"></div>
             </div>
